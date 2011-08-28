@@ -10,7 +10,8 @@ O copied the plugin originally from this url
 
 ## Post - Blog - Step by Step
 
-* http://loianegroner.com/2011/09/extjs-4-how-to-add-tooltip-to-grid-header
+* http://loianegroner.com/2011/09/extjs-4-how-to-add-tooltip-to-grid-header (English)
+* http://www.loiane.com/2011/09/extjs-4-como-adicionar-tooltip-no-grid-header (Portuguese)
 
 ## How to execute
 
