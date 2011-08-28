@@ -30,7 +30,7 @@ Ext.onReady(function() {
         data: myData
     });
     
-    var grid = Ext.create('Ext.grid.Panel', {
+    Ext.create('Ext.grid.Panel', {
         store: store,
         plugins: ['headertooltip'],
         columns: [
@@ -51,4 +51,3 @@ Ext.onReady(function() {
         }
     });
 });
-
