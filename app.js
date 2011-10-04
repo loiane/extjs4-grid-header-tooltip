@@ -3,7 +3,7 @@ Ext.Loader.setConfig({enabled: true});
 Ext.require([
     'Ext.grid.*',
     'Ext.data.*',
-    'ux.grid.HeaderToolTip'
+    'Ext.ux.grid.HeaderToolTip'
 ]);
 
 Ext.onReady(function() {
